@@ -1,0 +1,32 @@
+Comandos de GIT
+
+Para verificar el estatus de GIT
+git status
+
+Para agregar al index un archivo, y que luego pueda ser incluido en el siguiente commit
+git add archivo.html
+
+Para preparar los archivo
+
+Para ver el log de los últimos commit realizados
+git log
+
+Para ver los los en forma resumida
+git log --oneline
+
+Para vincular un repositorio remoto con el que tenemos en local
+git remote add remoto git@github.com:vcalderon-gb/WilmaSanchez.git
+
+
+Para listar todos los remotos a los que tenemos vinculados en local
+git remote -v
+
+Para subir los cambios al servidor remoto
+git push remote master
+
+
+Para clonar un repositorio existente en github pero que no lo tenemos en local
+git clone git@github.com:vcalderon-gb/CorpoByte.git
+
+
+

@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"car",
+				"cartButton"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"FFF",
+				"ffffff"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"cont",
+				"cont-eventos"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"foo",
+				"footer	Tag"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"na",
+				"navbar-default"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"c",
+				"cdae51"
+			],
+			[
+				"promo",
+				"promo-home"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pre",
+				"prensa-detalle"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"L",
+				"left"
+			],
+			[
+				"menu",
+				"menu-right"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"bt",
+				"btn-vestidos"
+			],
+			[
+				"btn-",
+				"btn-monitos"
+			],
+			[
+				"f",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PAC",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Wilma/HTML/footer.html",
+		"/C/xampp/htdocs/Wilma/HTML/home.html",
+		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
+		"/C/xampp/htdocs/Wilma/HTML/header.html",
+		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
+		"/C/xampp/htdocs/CentroArbitraje/interno.html",
+		"/C/xampp/htdocs/CentroArbitraje/index.html",
+		"/C/xampp/htdocs/CentroArbitraje/css/custom.css",
+		"/C/xampp/htdocs/CentroArbitraje/css/desktop.css",
+		"/C/xampp/htdocs/Bootstrap/05_01.html",
+		"/C/xampp/htdocs/CentroArbitraje/css/style.css",
+		"/C/xampp/htdocs/CentroArbitraje/css/slider.css",
+		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/footer.php",
+		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/css/slider.css",
+		"/C/xampp/htdocs/Arbitraje/wp-content/plugins/availability/style.css",
+		"/D/Garmin/GarminDevice.xml",
+		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/functions.php",
+		"/C/xampp/htdocs/CentroArbitraje/img/IcoMoon-4-32px-#000000/sprites/sprites.html",
+		"/C/xampp/htdocs/Bootstrap/04_03.html",
+		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/CentroArbitraje/css/desktop",
+		"/C/xampp/htdocs/Softline/softline/wp-content/themes/softline/css/desktop.css",
+		"/C/xampp/htdocs/Bootstrap/03_08.html",
+		"/C/xampp/htdocs/Softline/softline-bs/index.html",
+		"/C/xampp/htdocs/Softline/softline-bs/css/desktop.css",
+		"/C/xampp/htdocs/Bootstrap/css/custom.css",
+		"/C/xampp/htdocs/Bootstrap/03_07.html",
+		"/C/xampp/htdocs/Bootstrap/03_06.html",
+		"/C/xampp/htdocs/Bootstrap/03_05.html",
+		"/C/xampp/htdocs/Softline/softline-bs/detalle-promocion.html",
+		"/C/xampp/htdocs/Softline/softline-bs/home-promocion.html",
+		"/C/xampp/htdocs/Softline/softline-bs/article.html",
+		"/C/xampp/htdocs/Softline/softline-bs/interno.html",
+		"/C/xampp/htdocs/Softline/softline-bs/prensa.html",
+		"/C/xampp/htdocs/Bootstrap/02_07.html",
+		"/C/xampp/htdocs/Bootstrap/02_06.html",
+		"/C/xampp/htdocs/Softline/softline-bs/slider.html",
+		"/C/xampp/htdocs/Softline/softline-bs/responsive-slider-0.9/example/classic.html",
+		"/C/xampp/htdocs/Softline/softline-bs/css/inicio.css",
+		"/C/xampp/htdocs/Softline/softline-bs/index-original.html",
+		"/C/xampp/htdocs/Softline/softline-bs/js/modernizr-2.6.2.min.js",
+		"/C/xampp/htdocs/Softline/softline-bs/slider",
+		"/C/xampp/htdocs/Bootstrap/02_03.html",
+		"/C/xampp/htdocs/Bootstrap/02_05.html",
+		"/C/xampp/htdocs/Bootstrap/index.html",
+		"/C/xampp/htdocs/Bootstrap/02_02.html",
+		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/xampp/htdocs/Softline/softline-bs/header.html",
+		"/C/xampp/htdocs/Bootstrap/03_04.html",
+		"/C/xampp/htdocs/Bootstrap/03_03.html",
+		"/C/xampp/htdocs/Bootstrap/03_02.html",
+		"/C/xampp/htdocs/Bootstrap/03_01.html",
+		"/C/xampp/htdocs/Softline/softline-bs/css/custom.css",
+		"/C/xampp/htdocs/Softline/softline_html/index.html",
+		"/C/xampp/htdocs/Bootstrap/02_04.html",
+		"/C/xampp/htdocs/Bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/La-Coquetterie/La-Coquetterie.sublime-project",
+		"/C/xampp/htdocs/La-Coquetterie/La-Coquetterie.sublime-workspace",
+		"/C/xampp/htdocs/La-Coquetterie/CSS/personalized.css",
+		"/C/xampp/htdocs/La-Coquetterie/HTML/home.html",
+		"/C/xampp/htdocs/La-Coquetterie/HTML/footer.html",
+		"/C/xampp/htdocs/La-Coquetterie/HTML/header.html",
+		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/mini/desktop.css",
+		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/base.css",
+		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/mini/basic.css",
+		"/C/xampp/htdocs/La-Coquetterie/IMAGES/bg_body.png"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin-bottom: 2px;",
+			"prox-event-int",
+			".calendario-titulo",
+			".event-act",
+			"sumario",
+			"cont-logos",
+			".wp-availability-month",
+			".wp-availability-month table thead th",
+			"footer-ca",
+			"event-act",
+			"event_act",
+			"eventos-recientes",
+			"event-recientes",
+			"event-rec-tit-int",
+			"cont-eventos",
+			"calculadora",
+			"mnu-redes",
+			"logos",
+			"expand",
+			"logos",
+			"cabecero",
+			"5",
+			"cabecero",
+			"li",
+			"top",
+			"cabecero",
+			"><",
+			"top",
+			"cont-menu",
+			"src=\"../img",
+			"src=\"img",
+			"5",
+			"Diet",
+			"component prominentProd prodCarousel ch-g1",
+			"before",
+			"ch-g1 main wrapper",
+			"main wrapper",
+			".ch-g1",
+			"ch-g1",
+			"wrapper"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"logos",
+			"top",
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}
