@@ -1,0 +1,5 @@
+Aqui se deben agregar:
+Logos
+Favicon
+Iconos SVG
+Imagenes generales para la maqueta principal con las medidas adecuadas

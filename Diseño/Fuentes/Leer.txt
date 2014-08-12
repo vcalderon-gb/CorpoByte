@@ -1,0 +1,2 @@
+Aqui se deben agregar:
+Los archivos EOT y TTF de las fuentes google a ser utilizadas en el website
