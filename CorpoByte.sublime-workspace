@@ -251,17 +251,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "Para trabajar en git hub en local\n\n1.- Instalo en local github\n	abro la consola y configuro mi nombre y mi correo\n2.- Creo un directorio donde voy a trabajar mi primer repositorio\n3.- inicio git hub en ese directorio a traves del command line\n	git init\n4.- Agrego los primeros archivos al index para que luego los pueda enviar en commit\n	git add .\n	git add --all\n4.- realizo mi primera version:\n	git commit -m \"Mi Primer commit\"\n\n\nPara subir los cambios a un repositorio remoto (GitHub)\na) Crear un usuario github.com\nb) Crear un repositorio en git hub\nc) Vincular el repositorio creado en git hub con el repositorio local\n	git remote add remoto git@github.com:vcalderon-gb/WilmaSanchez.git\n	git remote -v\nd) Hacer push de los cambios locales (realizados en mi maquina) al servidor (GitHub)\n	git push remote master\n\nEn el caso de que el repositorio este creado y quiera hacer una clonacion para tenerlo en local\na) me ubico en el directorio donde voy a crear la carpeta clonada del proyecto y:\n	git clone git@github.com:vcalderon-gb/CorpoByte.git\nb) luego para subir cambios\n	git add index.html\n	git commit -m \"mensaje\"\n	git push origin master\n\nComandos de GIT\n\nPara verificar el estatus de GIT\ngit status\n\nPara agregar al index un archivo, y que luego pueda ser incluido en el siguiente commit\ngit add archivo.html\n\nPara preparar los archivo\n\nPara ver el log de los últimos commit realizados\ngit log\n\nPara ver los los en forma resumida\ngit log --oneline\n\nPara vincular un repositorio remoto con el que tenemos en local\ngit remote add remoto git@github.com:vcalderon-gb/WilmaSanchez.git\n\n\nPara listar todos los remotos a los que tenemos vinculados en local\ngit remote -v\n\nPara subir los cambios al servidor remoto\ngit push remote master\n\n\nPara clonar un repositorio existente en github pero que no lo tenemos en local\ngit clone git@github.com:vcalderon-gb/CorpoByte.git\n\nPara renombrar un origen\ngit <nombre actual> rename origin <nombre nuevo>\n\n\n\n\n\n",
-			"file": "Comandos de GIT",
-			"file_size": 2015,
-			"file_write_time": 130522922480604666,
-			"settings":
-			{
-				"buffer_size": 1950,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -339,12 +328,12 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
 		"/C/xampp/htdocs/CorpoByte/Comandos de GIT.txt",
 		"/C/xampp/htdocs/Wilma/HTML/footer.html",
 		"/C/xampp/htdocs/Wilma/HTML/home.html",
 		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
 		"/C/xampp/htdocs/Wilma/HTML/header.html",
-		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
 		"/C/xampp/htdocs/CentroArbitraje/interno.html",
 		"/C/xampp/htdocs/CentroArbitraje/index.html",
 		"/C/xampp/htdocs/CentroArbitraje/css/custom.css",
@@ -484,36 +473,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Comandos de GIT",
-					"settings":
-					{
-						"buffer_size": 1950,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1946,
-								1946
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 792.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
