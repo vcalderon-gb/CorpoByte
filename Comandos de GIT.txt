@@ -42,7 +42,7 @@ Para preparar los archivo
 Para ver el log de los últimos commit realizados
 git log
 
-Para ver los los en forma resumida
+Para ver los log en forma resumida
 git log --oneline
 
 Para vincular un repositorio remoto con el que tenemos en local
