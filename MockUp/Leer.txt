@@ -1,2 +1,2 @@
 Aqui se deben agregar:
-Los archivos para tener disponible las imagenes JPG o PNG dentro de un html
+Los archivos para tener disponible las imagenes JPG o PNG dentro de un html, o en su defecto el mockup ya creado en HTML
