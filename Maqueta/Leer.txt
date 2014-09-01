@@ -1,5 +1,5 @@
 Aqui se deben agregar:
-La estreuctura para la generación de la maqueta
+La estructura para la generaci—n de la maqueta
 HTML
 CSS
 JS

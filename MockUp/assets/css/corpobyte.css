@@ -1,0 +1,128 @@
+.navbar{border:0px;}
+
+.nav2{margin-top:0px; background-color:#15374f !important;border-radius: 0px;}
+.tit_slider{margin-top: -50px;position: absolute;height: 50px;width: 100%;background-color: #666;padding-top: 10px;opacity: 0.8; display:none;}
+.barra1{background-color: #edf5f8;}
+.navbar-inverse {background-color: #edf5f8;}
+.sections-bg-bi{
+	background: #2b2b2b url('../../images/bi_event_2.jpg') repeat fixed;
+}
+.blanco{
+	background-color: #FFF;
+}
+.product-box .separator a
+{
+    
+    color: #219FD1;
+}
+.product-box .separator
+{
+    border-top: 1px solid #E1E1E1;
+    color: #219FD1;
+}
+.product-box .price h5 {
+    line-height: 20px;
+    margin: 0px;
+    color: #000;
+    font-weight: bold;
+}
+header.section-dark{background-color:#15374f;}
+.social-links {
+margin-top: 14px;
+padding-bottom: 6px;
+}
+.navbar-nav>li>a{font-size:14px;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background-color: #ff8500;}
+.navbar-nav>li{background-color:#333333;}
+.navbar-nav li a:hover{background-color:#ff8500 !important;}
+.navbar-nav li a {padding-top: 12px;padding-bottom: 12px;}
+.col-xs-12.col-sm-4.col-md-4.col-lg-4.text-center{margin-left: 33%;}
+.fondo-venta {
+	background-image: url('../../images/fondo-banner-venta.png');
+	background-attachment: fixed;
+	background-position: center center;
+}
+.fondo-boletin {
+	background-image: url('../../images/pattern-boletin.png');
+	background-attachment: fixed;
+	background-position: center center;
+}
+.fondo-twitter {
+	background-image: url('../../images/pattern-twitter.png');
+	background-attachment: fixed;
+	background-position: center center;
+}
+.text-info, .text-info:hover {
+    color: #FFFFFF;
+}
+.btn-success {
+    color: #FFF;
+    background-color: #219FD1;
+    border-color: transparent;
+}
+.btn-info {
+    color: #FFF;
+    background-color: #219FD1;
+    border-color: transparent;
+}
+header{margin:0 auto;}
+
+.fluid-wrapper-map {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+.fluid-wrapper-map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+        border: none;
+}
+.iconos-derecha {
+	float: right;
+}
+
+/*ICONOS*/
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-m5o175');
+	src:url('../fonts/icomoon.eot?#iefix-m5o175') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-m5o175') format('woff'),
+		url('../fonts/icomoon.ttf?-m5o175') format('truetype'),
+		url('../fonts/icomoon.svg?-m5o175#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-size: 32px;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shop:before {
+	content: "\e600";
+}
+.icon-register:before {
+	content: "\e601";
+}
+.icon-search:before {
+	content: "\e602";
+}
+.icon-faceboo:before {
+	content: "\e603";
+}
+.icon-twitter:before {
+	content: "\e604";
+}

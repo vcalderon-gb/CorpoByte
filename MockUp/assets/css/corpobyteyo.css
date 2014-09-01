@@ -1,0 +1,56 @@
+.navbar{border:0px;}
+
+.nav2{margin-top:0px; background-color:#15374f !important;border-radius: 0px;}
+.tit_slider{margin-top: -50px;position: absolute;height: 50px;width: 100%;background-color: #666;padding-top: 10px;opacity: 0.8; display:none;}
+.barra1{background-color: #edf5f8;}
+.navbar-inverse {background-color: #edf5f8;}
+.sections-bg-bi{
+	background: #2b2b2b url('../../images/bi_event_2.jpg') repeat fixed;
+}
+.blanco{
+	background-color: #FFF;
+}
+.product-box .separator a
+{
+    
+    color: #219FD1;
+}
+.product-box .separator
+{
+    border-top: 1px solid #E1E1E1;
+    color: #219FD1;
+}
+header.section-dark{background-color:#15374f;}
+.social-links {
+margin-top: 14px;
+padding-bottom: 6px;
+}
+.navbar-nav>li>a{font-size:14px;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background-color: #ff8500;}
+.navbar-nav>li{background-color:#333333;}
+.navbar-nav li a:hover{background-color:#ff8500 !important;}
+.navbar-nav li a {padding-top: 12px;padding-bottom: 12px;}
+.col-xs-12.col-sm-4.col-md-4.col-lg-4.text-center{margin-left: 33%;}
+.fondo-venta {
+	background-image: url('../../images/fondo-banner-venta.png');
+	background-attachment: fixed;
+	background-position: center center;
+}
+.fondo-boletin {
+	background-image: url('../../images/patter-boletin.png');
+	background-attachment: fixed;
+	background-position: center center;
+}
+.text-info, .text-info:hover {
+    color: #FFFFFF;
+}
+.btn-success {
+    color: #FFF;
+    background-color: #219FD1;
+    border-color: transparent;
+}
+.btn-info {
+    color: #FFF;
+    background-color: #219FD1;
+    border-color: transparent;
+}
