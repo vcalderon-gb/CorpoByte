@@ -126,3 +126,42 @@ header{margin:0 auto;}
 .icon-twitter:before {
 	content: "\e604";
 }
+
+.texto-negro {
+    color: #000;
+}
+.text-info2 {
+	color: #000;
+}
+.icon-location2{
+	display:inline-block;
+	width:75px;
+	height:75px;
+	background: url(icons/location2.png) center center no-repeat;
+}
+.icon-location3{
+	display:inline-block;
+	width:75px;
+	height:75px;
+	background: url(icons/location3.png) center center no-repeat;
+}
+.fondo-slide-secciones {
+	background-image: url(../../images/blur-3.jpg); 
+	background-attachment: fixed;
+	background-position: center center;
+}
+.section-bootstrap .page-header2{
+	border-bottom:none;
+}
+.img_center  {
+ margin: 0 auto;
+}
+.pagination .pagination-right {
+	text-align: right;
+}
+.productos-relacionados{
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000;
+	margin-top: 50px;
+	margin-bottom: 25px;
