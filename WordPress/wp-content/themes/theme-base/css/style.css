@@ -1,0 +1,10 @@
+/*@font-face {
+	font-family: 'arvo';
+	src: url('../fonts/Arvo-Bold.ttf')  format('truetype'),
+			url('../fonts/Arvo-BoldItalic.ttf')  format('truetype'),
+			url('../fonts/Arvo-Italic.ttf')  format('truetype'),
+			url('../fonts/Arvo-Regular.ttf')  format('truetype');
+}*/
+*{padding:0; margin:0; border:0; font-family: "Tahoma"; vertical-align: top; white-space:normal; outline:none; color:#333;}
+/**********************Header************************************/
+.container{width:970px; height:100%; margin:0 auto; position:relative}
