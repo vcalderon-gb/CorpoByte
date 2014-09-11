@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bakc",
+				"background-attachment"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"t",
+				"title	Tag"
+			],
+			[
+				"S",
+				"SCRIPT	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 207.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/Makae.sublime-project",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/corpobyte.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/index.html",
+		"/Users/pedro/Documents/En Proceso/Makae/MockUp/Tonos",
+		"/Users/pedro/Documents/En Proceso/Makae/MockUp/assets/css/makae.css",
+		"/Users/pedro/Documents/En Proceso/Makae/MockUp/index.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/bootstrap-classic-plus-theme.css",
+		"/Users/pedro/Documents/En Proceso/PC2Computer/Mockup/index.html",
+		"/Users/pedro/Documents/En Proceso/PC2Computer/Mockup/css/sections-frmwrk-styles.css",
+		"/Users/pedro/Documents/En Proceso/PC2Computer/Mockup/css/bootstrap.min.css",
+		"/Users/pedro/Documents/En Proceso/PC2Computer/MockUp/index.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/quienes-somos.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/sucursales.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/blog.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/blog02.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/productos.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/promociones02.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/promociones.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/sections-frmwrk-styles.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/bootstrap.min.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/style.css",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/product-shop-page.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/info-page.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/f-template.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/example4_landing.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/header-1-slider-full-bg.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/index-final.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/services-simple-3col.html",
+		"/Users/pedro/Documents/En Proceso/Zorro Viejo/LHDP/README.md",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/README.md",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/project-1-example-skew-landing.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/assets/css/corpobyte.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/index-final.html",
+		"/Users/pedro/Downloads/icomoon3422/demo.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/assets/css/style.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia1.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia2_estilos.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia2.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia3_bootstrap.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia3.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Pedro B/dia4.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/example8.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/example6.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/Carlos/corpobyte.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/index-yo.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/indexprefinal.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/index.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/scroll-sections-parallax.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/scroll-sections.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/assets/css/sections-frmwrk-styles.css",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/index_bi.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/assets/css/styles_bi.css",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/untitled.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/index-no.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/example1.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/project-2-example-skew-landing.html",
+		"/Users/pedro/Documents/En Proceso/CorpoByte/Producción/Propuestas/Mockup/corpobyte-index.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/products-slider.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/services-slider.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/corpobyte-index.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/assets/css/bootstrap.min.css",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/assets/css/sections-frmwrk-styles.css",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/BLOCKS_HTML_SOURCES/BLOCKS_frmwrk_v1.0/product-mobile-slider.html",
+		"/Users/pedro/Documents/En Proceso/Recursos/Mockups/Web/BLOCKS_frmwrk_v1.3_d-n-d_/pedro.html",
+		"/Users/pedro/Documents/En Proceso/Zorro Viejo/LHdP/Propuestas/HdP Web/mockup/css/lhdp.css",
+		"/Users/pedro/Documents/En Proceso/Zorro Viejo/LHdP/Propuestas/HdP Web/mockup/css/manapro.css",
+		"/Users/pedro/Documents/En Proceso/Zorro Viejo/LHdP/Propuestas/HdP Web/mockup/index.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html4_plain.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html4_plain2.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html4_plain3.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html5.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure/Exercise Files/Chapter_01/01_03/html5_2.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com.HTML5.Structure.Syntax.and.Semantics-QUASAR/Exercise Files/Ex_Files_HTML5_Structure.zip",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_06/06_03/finished_files/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/B474/trails.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_06/06_03/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_06/06_02/finished_files/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_06/06_02/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/B474/css/main.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_05/05_06/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_05/05_04/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_05/05_02/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_05/05_01/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_04/04_06/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/04 Structuring HTML5 Documents/0406 Ensuring cross-browser structure.mov",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_04/04_04/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/B474/03_05-trails.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_04/04_03/trails.htm",
+		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_04/04_02/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_03/03_06/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_03/03_06/finished_files/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Medialoot-The Fancy/index.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/B474/03_05.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Web/HTML5/Lynda.com - HTML5 First Look/Exercise Files/Ex_Files_HTML5_First/Exercise_Files/Chapter_03/03_05/finished_files/trails.htm",
+		"/Users/pedro/Documents/En Proceso/Skills/HTML5/Medialoot-The Fancy/index.html",
+		"/Users/pedro/Documents/En Proceso/Skills/HTML5/Medialoot-The Fancy/css/style.css",
+		"/Users/pedro/Documents/En Proceso/Skills/HTML5/Medialoot-The Fancy/css/reset.css",
+		"/Users/pedro/Documents/En Proceso/Skills/HTML5/Medialoot-The Fancy/ccs/style.css",
+		"/Users/pedro/Documents/En Proceso/Skills/HTML5/Medialoot-The Fancy/ccs/styele.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/03_01.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/prueba.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_08.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_07_02.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_02.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_07.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_06.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/02_03.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/index.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia14.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia13.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia13_jquery.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia12.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia10.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia9.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia4.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia3.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia3_bootstrap.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia2.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia2_estilos.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Curso HTML-CSS-Ago-2013/Pedro B/dia1.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/css/custom.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/grid.html",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/js/respond.js",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/js/espond.js",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/css/bootstrap-theme.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/css/bootstrap.css",
+		"/Users/pedro/Documents/En Proceso/Skills/Bootstrap/Lynda - Up and Running with Bootstrap 3/B474/css/bootstrap-theme.min.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jumbotron",
+			"				\n",
+			"nav-tabs",
+			"blanco",
+			"panel-body",
+			"style=\"color:#000\"",
+			"active",
+			"Blog",
+			"Panel content goes here.",
+			"correo@corpobyte.com",
+			"sucrusales",
+			"services",
+			"http://www.bootstraptor.com",
+			"20",
+			"http://www.bootstraptor.com",
+			"</i> Share</button>",
+			"COmpartir en Facebook",
+			"Share on Facebook",
+			"Share on Twitter",
+			"Share",
+			"Read more",
+			"blog pots",
+			"blogspots",
+			"Add to cart",
+			"More details",
+			"Carousel Product Cart Slider",
+			"div",
+			"From our blog",
+			">\n",
+			"section-3",
+			"bi-slider",
+			"photo sections-bg-bi padding-top-100 padding-bottom-100 bi-slider",
+			"section-3",
+			"bi_event",
+			"bi-event",
+			"80px",
+			"10px",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.791391917819,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/pedro/Documents/En Proceso/CorpoByte/MockUp/assets/css/Corpobyte.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
